@@ -1,4 +1,6 @@
 @Grab('org.jsoup:jsoup:1.15.3')
+@Grab('com.sun.mail:jakarta.mail:2.0.1')
+
 import org.jsoup.Jsoup
 import javax.mail.*
 import javax.mail.internet.*

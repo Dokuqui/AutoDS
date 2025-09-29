@@ -1,7 +1,7 @@
 @Grab('org.jsoup:jsoup:1.15.3')
 import org.jsoup.Jsoup
-import javax.mail.*
-import javax.mail.internet.*
+import jakarta.mail.*
+import jakarta.mail.internet.*
 import java.nio.file.*
 import java.util.Properties
 
